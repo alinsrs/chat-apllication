@@ -6,7 +6,6 @@
                 :class="{'selected-card': card.selected}"
                 class="mb-1  mt-1 ml-0 mr-0 pr-0 pl-0"
                 :style="{'background-color': $vuetify.theme.currentTheme.primary}"
-                style=""
                 @click="selectCard(index)"
         >
             <v-row class="mb-1 mx-auto mr-0 ml-0 pr-0 pl-0">

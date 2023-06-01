@@ -13,7 +13,8 @@ export default new Vuetify({
                 errors: '#f44336',
                 info: '#031528',
                 success: '#64DD17',
-                background: '#9A98A4'
+                background: '#9A98A4',
+                chatBackground: '#483D8B'
             }
         }
     }
